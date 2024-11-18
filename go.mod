@@ -58,7 +58,7 @@ require (
 	modernc.org/sqlite v1.33.1
 	unknwon.dev/clog/v2 v2.2.0
 	xorm.io/builder v0.3.6
-	xorm.io/core v0.7.2
+	xorm.io/core v0.7.3
 	xorm.io/xorm v0.8.0
 )
 
